@@ -35,5 +35,5 @@ Basically, most of the variables are same as those of bitFlyer's "getticker" in 
 
 In addition to them, jniimi added "datetime" which is UTC time converted from "timestamp".
 
-[twit]:https://twitter.com/jniimi
+[twit]:https://twitter.com/jniimi_as_jack
 [API]:https://lightning.bitflyer.com/docs?lang=en
