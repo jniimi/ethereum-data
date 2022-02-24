@@ -1,5 +1,5 @@
 # Ethereum Price Change in Russia-Ukraine conflict
-This data has been originally collected by [@jniimi_as_jack][twit], a researcher in Japan. In this time, he decided to disclose it partly since he prioritizes the public interest.
+This data has been originally collected by [@jniimi_as_jack][twit], a data science researcher in Japan. In this time, he decided to disclose it partly since he prioritizes the public interest.
 
 I hope this data will be utilized in capturing the relationship between the price change of crypto currency and international affairs.
 
